@@ -1,21 +1,7 @@
-# Take the Amazon Cracked Challenge Today!!
+# DP Plans !!
 
->  **Connect with a Community of over 30,000 Coders** 
-[![GitHub KushalVijay](https://img.shields.io/github/followers/KushalVijay?label=follow&style=social)](https://github.com/KushalVijay) 
-![](https://img.shields.io/youtube/channel/subscribers/UCOZMPD9TMk0C4yipWBaPZ7w?label=Follow%20Savage%20Programmer&style=social)
-[![Linkedin: Kushal Vijay](https://img.shields.io/badge/-Kushal%20Vijay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kushaalvijay/)](https://www.linkedin.com/in/kushalvijay/)
-[![Twitter: Kushal Vijay](https://img.shields.io/twitter/follow/KushalVijay_?style=social)](https://twitter.com/KushalVijay_)
 
-## Enter the Challenge
-- Fork & Star this Github Repo 🌟
-- Share your progress every week by adding new commit every week.
-- Add details about your progress in the below table.
 
-<br />
-
-> "First, solve the problem. Then, write the code.” – John Johnson
-
-<br/>
 
 ## Learning Plan (50 Amazing Problems for Amazon)
 
@@ -23,7 +9,7 @@ Your Status can be: **Done ✅ | In Progress🕓 | Skipped❌**
 <br>
 Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 
-> **Problems for Week 1**
+> **Linear DP**
 
 | Problem Link | Status | Difficulty |
 | ------ | ------ | ------ |
